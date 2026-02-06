@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hanya orang biasa yang mempunyai mimpi.</p>
+<p align="left">Just an ordinary human</p>
 
 ###
 
